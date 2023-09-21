@@ -1,0 +1,28 @@
+1)Top 5 countries with highest number of athletes participating in the Tokyo Olympics?
+
+
+2) How many gold, silver, and bronze medals did a specific athlete (ALTO Gaston) from a specific country (Argentina) won in their respective discipline?
+
+
+3) Which discipline had the most male athletes participating in the Tokyo Olympics?How many of them?
+
+
+4) What is the total number of medals won by each country in the Tokyo Olympics, and how does their rank by total medals compare?
+
+
+5) Which coach had the most athletes competing in different events in the Tokyo Olympics?where is he from?
+
+
+6) What is the total number of male and female athletes in each discipline, and which discipline had the highest total number of athletes overall?
+
+
+7) How many gold, silver, and bronze medals did a specific country (Argentina) win in every discipline?
+
+
+8) Which team won the most gold medals in a specific Discipline(Archery)?
+
+
+9) Athletes from a specific country(Argentina) that participated in a particular discipline(Basketball) who were they?
+
+
+10) Which countries participated in a specific Discipline(Basketball), and how many athletes did each country send to compete in that event?Show them DESC
